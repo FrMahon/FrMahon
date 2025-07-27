@@ -1,7 +1,7 @@
 # 🧙 Mastering Magic
 👩🏻‍💻 Building cool things and breaking some in the process<br>👩🏻‍🎓 Studied Data Science<br>📊 Learning (and sharing) about data analytics, viz & machine learning<br>☕ Fueled by coffee, curiosity & way too many tabs<br>
 
-## 🌐 Socials
+# 🌐 Socials
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/francisco-mahon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/francisco-mahon/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19523435/fran-mahon?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19523435/fran-mahon?tab=profile" height="30" width="40" /></a>
@@ -15,16 +15,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=FrMahon&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=FrMahon&theme=radical&hide_border=false)<br/>
 
-## 🏆 Trophies
+# 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FrMahon&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frmahon&label=Profile%20views&color=0e75b6&style=flat" alt="frmahon" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/francisco-mahon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/francisco-mahon/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19523435/fran-mahon?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19523435/fran-mahon?tab=profile" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/fran_mahon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/fran_mahon" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/franmahon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/franmahon/" height="30" width="40" /></a>
-</p>
