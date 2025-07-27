@@ -16,10 +16,16 @@
 
 ## 📊 Stats
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrMahon&theme=radical&hide_border=false&include_all_commits=true&count_private=true" style="height: 200px; width: auto;" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=FrMahon&theme=radical&hide_border=false" style="height: 200px; width: auto;" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=FrMahon&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="200"/>
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=FrMahon&theme=radical&hide_border=false" height="200"/>
+    </td>
+  </tr>
+</table>
 
 
 
