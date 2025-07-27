@@ -22,4 +22,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=FrMahon&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 <br/>
 
-![](https://komarev.com/ghpvc/?username=FrMahon&color=blue)
+![](https://komarev.com/ghpvc/?username=FrMahon&color=blue&abbreviated=true)
