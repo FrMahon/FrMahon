@@ -15,15 +15,10 @@
 <br/>
 
 ## 📊 Stats
-
-<p align="center">
+<p style="text-align: left;">
   <img src="https://github-readme-stats.vercel.app/api?username=FrMahon&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=FrMahon&theme=radical&hide_border=false" height="150"/>
 </p>
-<br/>
-
-
-
 
 ## 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FrMahon&theme=radical&no-frame=true&no-bg=false&margin-w=4)
