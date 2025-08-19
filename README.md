@@ -1,5 +1,5 @@
-# 🧙 Mastering Magic
-👩🏻‍💻 Building cool things and breaking some in the process<br>👩🏻‍🎓 Studied Data Science<br>☕ Fueled by coffee, curiosity & way too many tabs<br>
+# 🧙 M
+👩🏻‍💻 B<br>👩🏻‍🎓 S<br>☕ <br>
 <br/>
 
 ## 🌐 Socials
