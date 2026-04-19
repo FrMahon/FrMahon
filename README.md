@@ -1,5 +1,5 @@
-# 🧙 M
-👩🏻‍💻 B<br>👩🏻‍🎓 S<br>☕ <br>
+# 🧙 Francisco Mahon
+👩🏻‍💻 Fullstack Developer<br>👩🏻‍🎓 Data science Students<br>☕ Working with Elastic and Kibana right now <br>
 <br/>
 
 ## 💻 Stack
