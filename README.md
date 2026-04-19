@@ -1,5 +1,5 @@
 # 🧙 Francisco Mahon
-👩🏻‍💻 Fullstack Developer<br>👩🏻‍🎓 Data science Students<br>☕ Working with Elastic and Kibana right now <br>
+👩🏻‍💻 Fullstack Developer<br>👩🏻‍🎓 Data science Student<br>☕ Working with Elastic and Kibana right now <br>
 <br/>
 
 ## 💻 Stack
