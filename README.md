@@ -17,10 +17,9 @@ I design and optimize enterprise management systems and e-commerce solutions tha
 
 <br/>
 <p>
-  <a href="https://leetcode.com/u/FranMahon/"><img src="https://img.shields.io/badge/LeetCode-FranMahon-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/profile/fran_mahon"><img src="https://img.shields.io/badge/HackerRank-fran__mahon-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/FranMahon/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/fran_mahon"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 </p>
-
 ## 💻 Stack
 
 **Languages**
