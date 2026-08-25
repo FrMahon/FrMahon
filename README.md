@@ -10,6 +10,7 @@ I design and optimize enterprise management systems and e-commerce solutions tha
 - ⭕ Built a unified enterprise management platform serving 100+ clients across different industries
 - ☕ Exploring Elastic and Kibana
 <br/>
+## 🧩 Coding Profiles
 [![LeetCode](https://img.shields.io/badge/LeetCode-FranMahon-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/FranMahon/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-fran__mahon-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/fran_mahon)
 <br/>
@@ -33,4 +34,4 @@ I design and optimize enterprise management systems and e-commerce solutions tha
 ![](https://github-profile-trophy.vercel.app/?username=FrMahon&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 <br/>
 📫 **Contact:** mahondata@gmail.com · [LinkedIn](https://linkedin.com/in/francisco-mahon)
-![](https://komarev.com/ghpvc/?username=FrMahon&color=blue&abbreviated=true)****
+![](https://komarev.com/ghpvc/?username=FrMahon&color=blue&abbreviated=true)
