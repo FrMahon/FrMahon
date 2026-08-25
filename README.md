@@ -16,10 +16,15 @@ I design and optimize enterprise management systems and e-commerce solutions tha
 - ☕ Exploring Elastic and Kibana
 
 <br/>
+
 <p>
   <a href="https://leetcode.com/u/FranMahon/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/profile/fran_mahon"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://www.salesforce.com/trailblazer/franmahon"><img src="https://img.shields.io/badge/Trailblazer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/franciscomahon"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 </p>
+
+<br/>
 ## 💻 Stack
 
 **Languages**
