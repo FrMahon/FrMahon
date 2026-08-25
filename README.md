@@ -14,7 +14,6 @@ I design and optimize enterprise management systems and e-commerce solutions tha
 - ⭕ Optimized database performance, cutting response times by 30% through indexing and optimized SQL queries
 - ⭕ Built a unified enterprise management platform serving 100+ clients across different industries
 - ☕ Exploring Elastic and Kibana
-
 <br/>
 
 <p>
@@ -25,6 +24,7 @@ I design and optimize enterprise management systems and e-commerce solutions tha
 </p>
 
 <br/>
+
 ## 💻 Stack
 
 **Languages**
