@@ -52,7 +52,7 @@ I design and optimize enterprise management systems and e-commerce solutions tha
 
 ## 🏆 Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=FrMahon&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=FrMahon&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 <br/>
 
