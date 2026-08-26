@@ -2,7 +2,7 @@
 
 💻 Full Stack Developer with 4+ years of experience<br>
 📊 Data Science Student<br>
-🏬 Currently at **Cooperativa Obrera**, building e-commerce platforms that handle +3M queries daily<br>
+🏬 Currently at **Cooperativa Obrera**, building e-commerce platforms<br>
 
 <br/>
 
