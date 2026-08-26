@@ -1,4 +1,4 @@
-# 🏮 Hi, I'm Francisco Mahon
+# 🏮 Good morning
 
 💻 Full Stack Developer with 4+ years of experience<br>
 📊 Data Science Student<br>
@@ -11,7 +11,7 @@
 I design and optimize enterprise management systems and e-commerce solutions that power the operations of 150+ branches nationwide. I focus on performance, high availability, and user experience.
 
 - ⭕ Currently developing full-stack features for [**La Coope en Casa**](https://www.lacoopeencasa.coop/) and [**CoopeHogar**](https://www.coopehogar.coop/) (PHP, Angular, SQL, Docker)
-- ⭕ Optimized database performance, cutting response times by 30% through indexing and optimized SQL queries
+- ⭕ Optimized database performance
 - ⭕ Built a unified enterprise management platform serving 100+ clients across different industries
 - ☕ Exploring Elastic and Kibana
 <br/>
