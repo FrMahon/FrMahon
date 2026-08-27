@@ -21,7 +21,6 @@ I design and optimize enterprise management systems and e-commerce solutions tha
   <a href="https://www.salesforce.com/trailblazer/franmahon"><img src="https://img.shields.io/badge/Trailblazer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" /></a>
   <a href="https://www.kaggle.com/franciscomahon"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 </p>
-
 <br/>
 
 ## 💻 Stack
