@@ -9,7 +9,7 @@
 
 I design and optimize enterprise management systems and e-commerce solutions that power the operations of 150+ branches nationwide. I focus on performance, high availability, and user experience.
 
-- ⭕ Currently developing full-stack features for [**La Coope en Casa**](https://www.lacoopeencasa.coop/) and [**CoopeHogar**](https://www.coopehogar.coop/) (PHP, Angular, SQL, Docker)
+- ⭕ Currently developing full-stack features for <a href="https://www.lacoopeencasa.coop/" target="_blank" rel="noopener noreferrer"><strong>La Coope en Casa</strong></a> and <a href="https://www.coopehogar.coop/" target="_blank" rel="noopener noreferrer"><strong>CoopeHogar</strong></a> (PHP, Angular, SQL, Docker)
 - ⭕ Optimized database performance
 - ⭕ Built a unified enterprise management platform serving 100+ clients across different industries
 - ☕ Exploring Elastic and Kibana
