@@ -67,11 +67,11 @@ I design and optimize enterprise management systems and e-commerce solutions tha
 </table>
 <br/>
 
-## 🏆 Trophies
-
-![](https://github-trophies.vercel.app/?username=FrMahon&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-<br/>
+1. ## 🏆 Trophies
+2. 
+3. ![](https://github-trophies.vercel.app/?username=FrMahon&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+4. 
+5. <br/>
 
 📫 **Contact:** mahondata@gmail.com · [LinkedIn](https://linkedin.com/in/francisco-mahon)
 
