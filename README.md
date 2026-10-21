@@ -1,11 +1,11 @@
-# 🏮 Good morning
+# 🏮 Hi there !
 
 💻 Full Stack Developer with 4+ years of experience<br>
 📊 Data Science Student<br>
 🏬 Currently at **Cooperativa Obrera**, building e-commerce platforms
 <br/>
 
-## 🏮 About me
+## 🏮 About me or something like that
 
 I design and optimize enterprise management systems and e-commerce solutions that power the operations of 150+ branches nationwide. I focus on performance, high availability, and user experience.
 
