@@ -2,7 +2,7 @@
 
 💻 Full Stack Developer with 4+ years of experience<br>
 📊 Data Science Student<br>
-🏬 Currently at **Cooperativa Obrera**, building e-commerce platforms
+🏬 Currently at **Cooperativa Obrera**, building e-commerce platforms and data pipelines & dashboards with the Elastic Stack (Elasticsearch, Kibana)
 <br/>
 
 ## 🏮 About me or something like that
@@ -11,8 +11,8 @@ I design and optimize enterprise management systems and e-commerce solutions tha
 
 - ⭕ Currently developing full-stack features for <a href="https://www.lacoopeencasa.coop/" target="_blank" rel="noopener noreferrer"><strong>La Coope en Casa</strong></a> and <a href="https://www.coopehogar.coop/" target="_blank" rel="noopener noreferrer"><strong>CoopeHogar</strong></a> (PHP, Angular, SQL, Docker)
 - ⭕ Optimized database performance
+- ⭕ Integrated Elasticsearch to power product search and analytics, improving search speed and relevance
 - ⭕ Built a unified enterprise management platform serving 100+ clients across different industries
-- ☕ Exploring Elastic and Kibana
 <br/>
 
 <p>
